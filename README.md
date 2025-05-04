@@ -1,4 +1,4 @@
-# PRODIGY_DS Task 03
+# PRODIGY_DS_03
 
 ```markdown
 # Task 03: Decision Tree Classifier for Product Purchase Prediction
